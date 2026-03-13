@@ -1,4 +1,4 @@
-# 😃 Olá, eu sou a Luiza!
+# 😉 Olá, eu sou a Luiza!
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas**
 - 👓 Fascinada por **desenvolvimento web** e **mobile**
 - 💻 Com ênfase em *Python*, *HTML* e *CSS*
