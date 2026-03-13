@@ -1,5 +1,4 @@
 # 😃 Olá, eu sou a Luiza!
-## Sobre mim
 - 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - 👓 Fascinada por **desenvolvimento web** e **mobile**
 - 🎯 Buscando constantemente expandir meus conhecimentos em tecnologia
