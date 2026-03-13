@@ -1,5 +1,4 @@
 # 😃 Olá, eu sou a Luiza!
----
 ## Sobre mim
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - Sempre aprendendo novas tecnologias e boas práticas de programação
