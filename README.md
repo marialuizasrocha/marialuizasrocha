@@ -3,7 +3,7 @@
 - 👓 Fascinada por **desenvolvimento web** e **mobile**
 - 💻 Com ênfase em *Python*, *HTML* e *CSS*
 - 🎯 Buscando sempre expandir meus conhecimentos em tecnologia
-- ✉ Contato: marusantosrocha@gmail.com
+- 📩 Contato: marusantosrocha@gmail.com
 ## 🛠 Tecnologias que estudo
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
