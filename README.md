@@ -1,5 +1,5 @@
 # Olá, eu sou a Luiza!✌
 - 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Focado em Python, HTML e CSS
-- 🎯 Preparando-se para o mercado de tecnologia
+- 💻 Foco em Python, HTML e CSS
+- 🎯 Em formação para atuar na área de tecnologia.
 - 📫 Contato: marusantosrocha@gmail.com
