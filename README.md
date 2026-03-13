@@ -2,7 +2,6 @@
 - 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - 🎯 Buscando sempre expandir meus conhecimentos em tecnologia
 - 👓 Fascinada por **desenvolvimento web** e **mobile**
----
 ## 🛠 Tecnologias que estudo
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
