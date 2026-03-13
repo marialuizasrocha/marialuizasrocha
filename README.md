@@ -1,7 +1,8 @@
 # 😃 Olá, eu sou a Luiza!
-- 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas**
 - 🎯 Buscando sempre expandir meus conhecimentos em tecnologia
 - 👓 Fascinada por **desenvolvimento web** e **mobile**
+- 💻 Com ênfase em HTML, CSS e Python
 ## 🛠 Tecnologias que estudo
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
@@ -12,7 +13,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-## Como me encontrar
+## 📮 Como me encontrar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:marusantosrocha@gmail.com)
 ---
-*“Sempre aprendendo e evoluindo como desenvolvedor.”*
